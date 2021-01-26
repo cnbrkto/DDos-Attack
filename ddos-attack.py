@@ -25,8 +25,8 @@ print "You Tube : https://www.youtube.com/c/HA-MRX"
 print "github   : https://github.com/Ha3MrX"
 print "Facebook : https://www.facebook.com/muhamad.jabar222"
 print
-ip = raw_input("IP Target : ")
-port = input("Port       : ")
+ip = raw_input("IP Target :94.102.1.194 ")
+port = input("Port       :80 ")
 
 os.system("clear")
 os.system("figlet Attack Starting")
